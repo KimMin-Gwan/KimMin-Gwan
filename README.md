@@ -1,4 +1,13 @@
-![](https://komarev.com/ghpvc/?username=KimMin-Gwan&color=50BCDF&label=visitors)
+![](https://komarev.com/ghpvc/?username=KimMin-Gwan&color=50BCDF&label=visitors)  
+  
+  
+  
+  ![캡처](https://user-images.githubusercontent.com/105574034/202858097-001c9c47-2b2f-4ee2-81b9-ca713fdd5991.PNG)
+
+#🌱Information  
+  
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimMin-Gwan&show_icons=true&theme=radical)
 <a href="" target="_blank"><img src="https://img.shields.io/badge/#00599?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
