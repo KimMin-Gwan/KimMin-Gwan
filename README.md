@@ -2,7 +2,8 @@
   
   
   
-  ![캡처](https://user-images.githubusercontent.com/105574034/202858097-001c9c47-2b2f-4ee2-81b9-ca713fdd5991.PNG)
+ ![name](https://user-images.githubusercontent.com/105574034/202858741-a258df47-988c-4075-954a-e12442a86c26.PNG)
+
 
 #🌱Information  
   
