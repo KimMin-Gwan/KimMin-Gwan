@@ -1,5 +1,6 @@
-
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fansohxxn&count_bg=%23FFC500&title_bg=%23555555&icon=diaspora.svg&icon_color=%23FFDD00&title=visitors&edge_flat=false)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimMin-Gwan&show_icons=true&theme=radical)
+<a href="" target="_blank"><img src="https://img.shields.io/badge/#00599?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 
 <!--
 **KimMin-Gwan/KimMin-Gwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
