@@ -6,7 +6,7 @@
 
 
 ## 🌱Information  
-//![Anurag's GitHub stats](https://kim-min-gwan.vercel.app/api?username=KimMin-Gwan&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://kim-min-gwan.vercel.app/api?username=KimMin-Gwan&show_icons=true&theme=radical) -->
 
 
 <!--
