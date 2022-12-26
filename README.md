@@ -14,7 +14,7 @@
     😺[깃허브 블로그](https://kimmin-gwan.github.io)😺   
      
 
- + 항상 말씀드리지만 모든 프로젝트는 누구든 사용가능하나, 사용에서 발생하는 모든 책임은 사용자에게 있습니다.
+ + 항상 말씀드리지만 모든 프로젝트는 누구든 사용가능하나, 사용에서 발생하는 문제에 대한 모든 책임은 사용자에게 있습니다.
  + 함께 작업하거나 공부하실분들 언제든지 컨택해주세요. alsrhks2508@naver.com
 <!--
 **KimMin-Gwan/KimMin-Gwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
