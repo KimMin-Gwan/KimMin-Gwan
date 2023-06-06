@@ -10,7 +10,6 @@
  + 본캐(김민관)으로 사는 삶이 기록되는 깃허브 입니다.
  + C, C++, Java, Python, Html, css, js, node.js 사용가능합니다.
  + 함께 작업하시는 분들께 항상 감사드립니다. 도움이 될 수 있도록 더욱 노력하겠습니다.
- + 블로그가 외부에서 접속이 문제로 인해 조만간 옮길 수도 있습니다.
 
     😺 [본캐 공부 블로그](https://kimmin-gwan.github.io) 😺   
     🌻 [부캐 일상 블로그](https://blog.naver.com/m_ingxn_) 🌻   
