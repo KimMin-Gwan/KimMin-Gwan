@@ -20,7 +20,7 @@
  + Graduate of Gyeongsan middle/High School (2013 - 2018)
  + Served in VII Mobile Corps Engineers Brigade (2020-2021)
  + Study at Yeungnam University Information and Communication Engineering (2019 - )
- + Study at Yeungnam University Computer Science (2022 - )
+ + Study at Yeungnam University Computer Science Engineering (2022 - )
 
 ## 🎲 Contest
  + Yeungnam University Capstone Design Project Contest 2022
