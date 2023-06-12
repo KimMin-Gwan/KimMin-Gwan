@@ -29,19 +29,22 @@
 <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=black"/>
 <img src="https://img.shields.io/badge/fastapi-#009688?style=flat&logo=fastapi&logoColor=white"/>
+<br>
 
 <br>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+<br>
 
 <br>
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+<br>
 
 <br>
 <img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>
-
+<br>
 
 <!--
 **KimMin-Gwan/KimMin-Gwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
