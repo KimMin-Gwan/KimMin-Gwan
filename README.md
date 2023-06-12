@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=black"/>
+    <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white"/>
     <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/>
   <br>
