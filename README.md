@@ -33,31 +33,31 @@
 <div align="center"><h4> 📡 Web </h4></div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"/>
-    <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white"/>
-    <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/fastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 
 <div align="center"><h4> 🌈 Develop </h4></div>
-    <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 
 <div align="center"><h4> 💻 AI </h4></div>
-    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/openCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 
 <div align="center"><h4> 💡 Others </h4></div>
-    <img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>
-    <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
-    <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/vim-019733?style=flat&logo=vim&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Raspberry_PI-A22846?style=flat&logo=raspberrypi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/>
     <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
-    <img src="https://img.shields.io/badge/powershell-5391FE?style=flat&logo=powershell&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
   
 </div>
 
