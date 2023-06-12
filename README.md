@@ -40,12 +40,13 @@
     <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/java-00599C?style=flat&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 
 <div align="center"><h3> AI </h3></div>
   <br>
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
     <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 
 <div align="center"><h3> AI </h3></div>
   <br>
