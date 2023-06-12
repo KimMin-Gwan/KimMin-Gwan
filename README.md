@@ -2,20 +2,47 @@
   
   
   
-![name](https://user-images.githubusercontent.com/105574034/202858815-73f8cf3a-b866-4b3b-b0bb-a027aa07a667.PNG)
+![name](![github-header-image](https://github.com/KimMin-Gwan/KimMin-Gwan/assets/105574034/26b790e5-9767-4bd5-94fd-e42b52d235e4)
 
 
-## 🌱Information  
+## 🌱 Information  
 <!-- ![Anurag's GitHub stats](https://kim-min-gwan.vercel.app/api?username=KimMin-Gwan&show_icons=true&theme=radical) -->
- + 본캐(김민관)으로 사는 삶이 기록되는 깃허브 입니다.
- + C, C++, Java, Python, Html, css, js, node.js 사용가능합니다.
  + 함께 작업하시는 분들께 항상 감사드립니다. 도움이 될 수 있도록 더욱 노력하겠습니다.
 
     😺 [본캐 공부 블로그](https://kimmin-gwan.github.io) 😺   
     🌻 [부캐 일상 블로그](https://blog.naver.com/m_ingxn_) 🌻   
 
- + 모든 프로젝트는 누구든 사용가능하나, 사용에서 발생하는 문제에 대한 모든 책임은 사용자에게 있습니다.
+ + 모든 소스코드는 누구든 사용가능하나, 사용에서 발생하는 문제에 대한 모든 책임은 사용자에게 있습니다.
  + 함께 작업하거나 공부하실분들 언제든지 컨택해주세요. alsrhks2508@yu.ac.kr
+
+## 📋 Detail
+ + Graduate of Gyeongsan middle/High School (2013 - 2018)
+ + Served VII Mobile Corps Engineers Brigade (2020-2021)
+ + Study at Yeungnam University Information and Communication Engineering (2019 - )
+ + Study at Yeungnam University Computer Science (2022 - )
+
+## 📚 Skill
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=black"/>
+<img src="https://img.shields.io/badge/fastapi-#009688?style=flat&logo=fastapi&logoColor=white"/>
+
+<br>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+
+<br>
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+
+<br>
+<img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>
+
+
 <!--
 **KimMin-Gwan/KimMin-Gwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
