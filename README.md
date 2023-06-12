@@ -2,7 +2,7 @@
   
   
   
-![name](![github-header-image](https://github.com/KimMin-Gwan/KimMin-Gwan/assets/105574034/26b790e5-9767-4bd5-94fd-e42b52d235e4)
+(![github-header-image](https://github.com/KimMin-Gwan/KimMin-Gwan/assets/105574034/26b790e5-9767-4bd5-94fd-e42b52d235e4)
 
 
 ## 🌱 Information  
