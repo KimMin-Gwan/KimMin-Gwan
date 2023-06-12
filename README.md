@@ -13,7 +13,8 @@
     🌻 [부캐 일상 블로그](https://blog.naver.com/m_ingxn_) 🌻   
 
  + 모든 소스코드는 누구든 사용가능하나, 사용에서 발생하는 문제에 대한 모든 책임은 사용자에게 있습니다.
- + 함께 작업하거나 공부하실분들 언제든지 컨택해주세요. alsrhks2508@yu.ac.kr
+ + 함께 작업하거나 공부하실분들 언제든지 컨택해주세요.
+ + 이메일 주소 : alsrhks2508@yu.ac.kr
 
 ## 📋 History
  + Graduate of Gyeongsan middle/High School (2013 - 2018)
