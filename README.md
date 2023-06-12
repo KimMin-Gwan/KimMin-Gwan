@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white"/>
     <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 
 <div align="center"><h4> 🌈 Develop </h4></div>
     <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
