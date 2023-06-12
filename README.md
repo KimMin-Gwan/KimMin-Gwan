@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white"/>
     <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
   <br>
 
 <div align="center"><h3> Develop </h3></div>
@@ -48,9 +49,15 @@
     <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
     <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 
-<div align="center"><h3> AI </h3></div>
+<div align="center"><h3> Others </h3></div>
   <br>
     <img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/vim-019733?style=flat&logo=vim&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/powershell-5391FE?style=flat&logo=powershell&logoColor=white"/>
+  
 </div>
 <!--
 **KimMin-Gwan/KimMin-Gwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
