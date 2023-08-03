@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/>
     <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
-    <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Androidstudio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
   
 </div>
 
