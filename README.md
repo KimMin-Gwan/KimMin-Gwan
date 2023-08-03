@@ -16,13 +16,13 @@
  + 함께 작업하거나 공부하실분들 찾고 있습니다.
  + 이메일 주소 : alsrhks2508@yu.ac.kr
 
-## 📋 History
+## 📋 Back Ground
  + Graduate of Gyeongsan middle/High School (2013 - 2018)
  + Served in VII Mobile Corps Engineers Brigade (2020-2021)
  + Study at Yeungnam University Information and Communication Engineering (2019 - )
  + Study at Yeungnam University Computer Science Engineering (2022 - )
 
-## 🎲 Contest
+## 🎲 Contest & Activity
  + Yeungnam University Capstone Design Project Contest 2022
  + ICT Convergence Project Contest 2023
 
