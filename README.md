@@ -21,7 +21,8 @@
  + Served in VII Mobile Corps Engineers Brigade (2020-2021)
  + Study at Yeungnam University Information and Communication Engineering (2019 - )
  + Study at Yeungnam University Computer Science Engineering (2022 - )
-
+ + Study at DGM AI/Software Track (2023 - )
+  
 ## 🎲 Contest & Activity
  + Yeungnam University Capstone Design Project Contest 2022
  + ICT Convergence Project Contest 2023
