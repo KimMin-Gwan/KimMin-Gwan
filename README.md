@@ -18,7 +18,7 @@
 
 ## 📋 Back Ground
  + Graduate of Gyeongsan middle/High School (2013 - 2018)
- + Served in VII Mobile Corps Engineers Brigade (2020-2021)
+ + Served in VII Mobile Corps Engineers Brigade (2020 - 2021)
  + Study at Yeungnam University Information and Communication Engineering (2019 - )
  + Study at Yeungnam University Computer Science Engineering (2022 - )
  + Study at DGM AI/Software Track (2023 - )
@@ -26,7 +26,10 @@
 ## 🎲 Contest & Activity
  + Yeungnam University Capstone Design Project Contest 2022
  + ICT Convergence Project Contest 2023
-
+ + Yeungnam University Capstone Design Project Contest 2023
+ + 2023 E2FESTA Yeungnam Preliminaries
+ + Hackathon in the field of the disabled 2023
+ + Seoul AIOT Hackathon 2023
 
 ## 📚 Skill
 <div align="center">
