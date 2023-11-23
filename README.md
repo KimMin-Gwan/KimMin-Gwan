@@ -9,7 +9,7 @@
 <!-- ![Anurag's GitHub stats](https://kim-min-gwan.vercel.app/api?username=KimMin-Gwan&show_icons=true&theme=radical) -->
  + 함께 작업하시는 분들께 항상 감사드립니다. 도움이 될 수 있도록 더욱 노력하겠습니다.
 
-    😺 [본캐 공부 블로그](https://kimmin-gwan.github.io) 😺   
+<!--    😺 [본캐 공부 블로그](https://kimmin-gwan.github.io) 😺   -->
     🌻 [부캐 일상 블로그](https://blog.naver.com/m_ingxn_) 🌻   
 
  + 모든 소스코드는 누구든 사용가능하나, 사용에서 발생하는 문제에 대한 모든 책임은 사용자에게 있습니다.
