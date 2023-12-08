@@ -25,11 +25,15 @@
   
 ## 🎲 Contest & Activity
  + Yeungnam University Capstone Design Project Contest 2022
+ + NaverConnect & Play-Software | Wintercamp 2022
  + ICT Convergence Project Contest 2023
  + Yeungnam University Capstone Design Project Contest 2023
- + 2023 E2FESTA Yeungnam Preliminaries
+ + E2FESTA Yeungnam Preliminaries 2023 
  + Hackathon in the field of the disabled 2023
  + Seoul AIOT Hackathon 2023
+ + YU Design Pair 2023
+ + It's DGB, Im Challenger Final Round 2023
+ + NaverConnect & Play-Software | Wintercamp 2022
 
 ## 📚 Skill
 <div align="center">
