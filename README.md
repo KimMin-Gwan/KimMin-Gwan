@@ -33,7 +33,7 @@
  + Seoul AIOT Hackathon 2023
  + YU Design Pair 2023
  + It's DGB, Im Challenger Final Round 2023
- + NaverConnect & Play-Software | Wintercamp 2022
+ + NaverConnect & Play-Software | Wintercamp 2023
 
 ## 📚 Skill
 <div align="center">
