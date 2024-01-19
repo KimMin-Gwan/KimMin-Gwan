@@ -22,6 +22,7 @@
  + Study at Yeungnam University Information and Communication Engineering (2019 - )
  + Study at Yeungnam University Computer Science Engineering (2022 - )
  + Study at DGM AI/Software Track (2023 - )
+ + Team 'Youths changing the world' to work as a lead developer (2024 - )
   
 ## 🎲 Contest & Activity
  + Yeungnam University Capstone Design Project Contest 2022
