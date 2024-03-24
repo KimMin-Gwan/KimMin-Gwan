@@ -81,7 +81,7 @@
   
 <div align="center"><h4> Now Status</h4></div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimMin-Gwan&layout=donut&theme=dracula&langs_count=8">
-    <img src="https://github-readme-stats.vercel.app/api?username=KimMin-Gwan)](https://github.com/KimMin-Gwan/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=KimMin-Gwan">
     
     
 </div>
