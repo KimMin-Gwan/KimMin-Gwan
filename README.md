@@ -79,6 +79,9 @@
     <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
   
+<div align="center"><h4> Now Status</h4></div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimMin-Gwan&layout=compact">
+    
 </div>
 
 
