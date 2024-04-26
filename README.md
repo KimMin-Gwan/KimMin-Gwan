@@ -35,6 +35,7 @@
  + YU Design Pair 2023
  + It's DGB, Im Challenger Final Round 2023
  + NaverConnect & Play-Software | Wintercamp 2023
+ + ICT Convergence Project Contest 2024
 
 ## 📚 Skill
 <div align="center">
