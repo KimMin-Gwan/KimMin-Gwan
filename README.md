@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=KimMin-Gwan&color=50BCDF&label=visitors)  
   
+![명함](https://github.com/user-attachments/assets/ac9b9404-1b67-49b4-ba34-569534b0c844)
   
-  
-![github-header-image](https://github.com/KimMin-Gwan/KimMin-Gwan/assets/105574034/26b790e5-9767-4bd5-94fd-e42b52d235e4)
+<!-- ![github-header-image](https://github.com/KimMin-Gwan/KimMin-Gwan/assets/105574034/26b790e5-9767-4bd5-94fd-e42b52d235e4) -->
 
 
 ## 🌱 Information  
