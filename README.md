@@ -1,16 +1,18 @@
 ![](https://komarev.com/ghpvc/?username=KimMin-Gwan&color=50BCDF&label=visitors)  
+
   
-![명함](https://github.com/user-attachments/assets/ac9b9404-1b67-49b4-ba34-569534b0c844)
+![명함](https://github.com/user-attachments/assets/2fcdf496-bde1-4e3f-a7c7-e4d0bc3d57ac)
+
   
 <!-- ![github-header-image](https://github.com/KimMin-Gwan/KimMin-Gwan/assets/105574034/26b790e5-9767-4bd5-94fd-e42b52d235e4) -->
 
 
 ## 🌱 Information  
 <!-- ![Anurag's GitHub stats](https://kim-min-gwan.vercel.app/api?username=KimMin-Gwan&show_icons=true&theme=radical) -->
- + [세상을바꾸는청년들] 대표 김민관이라고 합니다.
+ + [팀 SUPERNOVA] 대표 김민관이라고 합니다.
  + 백, 프론트, 임베디드, AI, 빅데이터, 클라우드, 모바일, 전자 관련 경험을 주로 했습니다.
- + [세상을바꾸는청년들]은 덕질과 관련된 포털 사이트 및 앱, 시스템 개발을 합니다.
- + [세상을바꾸는청년들]에 가입 또는 참여 하고 싶으신 분들은 위 명함의 이메일 주소로 연락 주시기 바랍니다.
+ + [팀 SUPERNOVA]은 덕질과 관련된 포털 사이트 및 앱, 시스템 개발을 합니다.
+ + [팀 SUPERNOVA]에 가입 또는 참여 하고 싶으신 분들은 위 명함의 이메일 주소로 연락 주시기 바랍니다.
  + 덕질 사업 관련 분야에 관심이 있는 학생분들을 환영합니다.
 
  + 모든 소스코드는 누구든 사용가능하나, 사용에서 발생하는 문제에 대한 모든 책임은 사용자에게 있습니다.
