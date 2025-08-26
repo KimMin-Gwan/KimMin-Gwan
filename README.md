@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=KimMin-Gwan&color=50BCDF&label=visitors)  
 
   
+<img width="1014" height="1210" alt="명함_김민관" src="https://github.com/user-attachments/assets/644fbfbe-a92d-4fa8-995e-f3ec8116c96c" />
 
-  <img width="1014" height="1210" alt="명함" src="https://github.com/user-attachments/assets/8076895d-10da-4336-aa57-e05f7a49fd1f" />
 
 <!-- ![github-header-image](https://github.com/KimMin-Gwan/KimMin-Gwan/assets/105574034/26b790e5-9767-4bd5-94fd-e42b52d235e4) -->
 
