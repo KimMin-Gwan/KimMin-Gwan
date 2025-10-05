@@ -26,7 +26,7 @@
  + Study at Yeungnam University Computer Science Engineering (2022 - 2025)
  + Study at DGM AI/Software Track (2023 - 2025)
  + Team 'Youths changing the world' to work as a lead developer (2024 - 2025)
- + Team 'SUPERNOVA' to work as a Team Leader (2025 - )
+ + The 'TEAM SUPERNOVA' to work as a Team Leader (2025 - )
   
 ## 🎲 Contest & Activity
  + Yeungnam University Capstone Design Project Contest 2022
