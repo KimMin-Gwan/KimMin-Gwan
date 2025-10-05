@@ -41,7 +41,7 @@
  + NaverConnect & Play-Software | Wintercamp 2023
  + ICT Convergence Project Contest 2024
  + Project NOVA 2024
- + SUPERNOVA 2025
+ + TEAM SUPERNOVA 2025
 
 ## 📚 Skill
 <div align="center">
