@@ -9,9 +9,9 @@
 
 ## 🌱 Information  
 <!-- ![Anurag's GitHub stats](https://kim-min-gwan.vercel.app/api?username=KimMin-Gwan&show_icons=true&theme=radical) -->
- + [TEAM SUPERNOVA] 대표 김민관 입니다. (경산 소재)
+ + [TEAM SUPERNOVA] 대표 김민관 입니다.
  + 저희는 웹 개발, 서버 개발, 웹 디자인을 주로 합니다.
- + [TEAM SUPERNOVA]은 스트리밍(치지직 또는 SOOP)의 콘텐츠 서비스 제작 및 플랫폼 운영을 목표로 일하고 있습니다.
+ + [TEAM SUPERNOVA]는 스트리밍(치지직 또는 SOOP)의 콘텐츠 서비스 제작 및 플랫폼 운영을 목표로 일하고 있습니다.
 
 
  + 모든 소스코드는 누구든 사용가능하나, 사용에서 발생하는 문제에 대한 모든 책임은 사용자에게 있습니다.
